@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://image.freepik.com/free-vector/robotic-artificial-intelligence-technology-smart-lerning-from-bigdata-banner_1150-48133.jpg" height="200"/>
+  <img src="https://image.freepik.com/free-vector/robotic-artificial-intelligence-technology-smart-lerning-from-bigdata_1150-48136.jpg" height="200"/>
 </p>
 <br>
 
