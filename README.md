@@ -14,7 +14,7 @@
 </p>
 <hr>
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I AM AL IMRAN FAKIR</h1>
-<h3 align="center">Machine Learning Engineer | Data Scientist </h3>
+<h3 align="center">Machine Learning Engineer | Django developer</h3>
 <p align="center">
 <a href="https://www.hackerrank.com/al_imran_fakir_1" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_imran" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/al-imran-fakir-3a8614216/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_imran" height="30" width="40" /></a>  
